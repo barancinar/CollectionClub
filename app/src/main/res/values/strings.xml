@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">quiz2</string>
+
+    <string name="header_text"><b>KOLEKSİYON KULÜBÜ</b></string>
+
+    <string name="member_name_text"><b>Üye Adı</b></string>
+    <string name="ed_member_name_text">Adınız</string>
+    <string name="koleksiyon_cinsi_text"><b>Koleksiyon Cinsi</b></string>
+    <string name="degisen_cins">Cins Seçiniz</string>
+    <string name="koleksiyon_cins_button">Değiştir</string>
+    <string name="koleksiyon_durumu_button">Değiştir</string>
+    <string name="koleksiyon_durumu_text"><b>Koleksiyon Durumu</b></string>
+    <string name="degisen_durum">Durum Seçiniz</string>
+    <string name="paylas_button">Paylaş</string>
+
+    <string-array name="koleksiyon_listesi">
+        <item>Top</item>
+        <item>Para</item>
+        <item>Kart</item>
+        <item>Madeni Para</item>
+        <item>Gazoz Kapağı</item>
+    </string-array>
+
+
+    <string name="kartpostal_text">Kartpostal Koleksiyonu</string>
+    <string name="pul_text">Pul Koleksiyonu</string>
+    <string name="oyun_text">Oyun Koleksiyonu</string>
+    <string name="kapak_text">Kapak Koleksiyonu</string>
+    <string name="kalem_text">Kalem Koleksiyonu</string>
+
+    <string name="degisim_text">Değişime Açık</string>
+    <string name="degismeyen_text">Değişime Kapalı</string>
+    <string name="gizli_text">Gizli</string>
+    <string name="devam_text">Devam Ediyor</string>
+    <string name="kayip_text">Kayıp</string>
+
+    <string name="mesaj">Merhaba, Ben %s. %s biriktiriyorum. Koleksiyonumun durumu %s.</string>
+
+</resources>
